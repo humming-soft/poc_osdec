@@ -37,6 +37,6 @@
 	<script type="text/javascript" src="../assets/js/highcharts_theme_dark.js"></script>
 
 	<!-- light theme -->
-	<!-- <link rel="stylesheet" type="text/css" href="../assets/css/theme_black.css"> -->
+	<link rel="stylesheet" type="text/css" href="../assets/css/theme_white.css">
 
 </head>
