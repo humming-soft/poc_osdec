@@ -33,9 +33,9 @@
 				
 				<div class="col-md-12">
 					<h3>
-						<a class="temp" href="module_user_registration.php">
+						<a class="temp" href="module_user.php">
 							<i class="fa fa-paw" aria-hidden="true"></i>
-							User Registration
+							User
 						</a>
 					</h3>
 					<h3>

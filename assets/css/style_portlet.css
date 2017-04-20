@@ -174,7 +174,7 @@ breadcrumb
 div.custom_breadcrumb div.title {
 	color: #fff;
 	padding: 0 0 5px;
-	font-size: 1.5em;
+	font-size: 2em;
 	border-bottom: 1px solid #335;
 }
 
@@ -776,19 +776,74 @@ div.portlet_gis svg {
 
 
 
+/*
 
 
+portlet_index
 
 
+*/
 
 
+div.portlet_index div.content {
+}
+
+div.portlet_index .index_header {
+	padding: 20px 0 50px;
+}
+	div.portlet_index .index_header .title {
+		padding: 0;
+		font-size: 1.5em;
+	}
+	div.portlet_index .index_header .button {
+		padding: 0;
+		text-align: right;
+	}
 
 
+div.portlet_index div.index_table {
+}
+	div.portlet_index div.index_table thead tr th {
+		background: #779;
+		color: #fff;
+	}
+	div.portlet_index div.index_table thead tr th:last-child {
+		text-align: right;
+	}
+	
+	div.portlet_index div.index_table tbody tr td:last-child {
+		text-align: right;
+		background: #ffa
+	}
+	div.portlet_index div.index_table tbody tr td:last-child button {
+		margin: 0 2px;
+	}
+
+div.portlet_index div.btn_delete_popup .modal-title div.title {
+	padding: 5px 10px;
+	background: #ccc;
+}
+div.portlet_index div.btn_delete_popup .modal-body div.content {
+	padding: 5px 10px;
+}
+div.portlet_index div.btn_delete_popup .modal_button {
+	padding: 5px 10px;
+	text-align: right;
+}
 
 
+/*
+
+portlet_form
 
 
+*/
 
+div.portlet_form div.buttom {
+	padding: 20px 0px;
+	margin-top: 20px;
+	border-top: 1px solid #aaa;
+}
 
 
 

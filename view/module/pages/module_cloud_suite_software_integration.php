@@ -28,4 +28,4 @@
 	
 </div>
 
-<script type="text/javascript" src="../assets/js/pages/infographic_v1.js"></script>
+<!-- <script type="text/javascript" src="../assets/js/pages/infographic_v1.js"></script> -->

@@ -178,7 +178,7 @@ div.error_404 div.main_title {
 }
 div.error_404 div.title {
 	margin-top: -30px;
-	font-size: 2em;
+	font-size: 2.5em;
 	font-weight: bolder;
 }
 div.error_404 div.subtitle {
@@ -196,85 +196,14 @@ body.infographic {
 }
 
 /*____________________________________________
-scurve_page
+generic command
 --------------------------------------------*/
 
-div.scurve_page {
-	padding: 20px 0;
-	width: 1220px;
-	margin: 0 auto;
-	text-align: center;
-}
 
-div.scurve_page div.switchblock_sub_plate {
-	display: inline-block;
-	vertical-align: top;
-	width: 300px;
-}
-
-div.scurve_page div.switchblock {
-	height: 100px;
-	margin: 14px 5px;
-	border-radius: 2px;
-	color: #fff;
-}
-
-div.scurve_page div.switchblock_title {
-	font-size: 1.25em;
+.goto_left {
 	text-align: left;
-	padding: 0 20px;
 }
-
-div.scurve_page div.switchblock .image,
-div.scurve_page div.switchblock .title {
-	text-align: left;
-	display: inline-block;
+.goto_right {
+	text-align: right;
 }
-
-div.scurve_page div.switchblock .image {
-	width: 110px;
-	text-align: center;
-}
-	div.scurve_page div.switchblock .image img {
-		padding: 15px 0;
-	}
-
-div.scurve_page div.switchblock div.title {
-	font-size: 1.25em;
-	vertical-align: middle;
-	width: 175px;
-	padding: 0 15px;
-}
-
-
-div.scurve_page > div.ssp_6scurve div.switchblock {
-	background: #096;
-}
-div.scurve_page > div.ssp_elevated div.switchblock {
-	background: #09c;
-}
-div.scurve_page > div.ssp_underground div.switchblock {
-	background: #960;
-}
-div.scurve_page > div.ssp_system div.switchblock {
-	background: #768;
-}
-
-div.scurve_page > div.ssp_6scurve div.switchblock:hover {
-	background: #1a7;
-	cursor: pointer;
-}
-div.scurve_page > div.ssp_elevated div.switchblock:hover {
-	background: #1ad;
-	cursor: pointer;
-}
-div.scurve_page > div.ssp_underground div.switchblock:hover {
-	background: #a71;
-	cursor: pointer;
-}
-div.scurve_page > div.ssp_system div.switchblock:hover {
-	background: #879;
-	cursor: pointer;
-}
-
 
