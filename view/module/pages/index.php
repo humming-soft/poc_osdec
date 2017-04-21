@@ -39,19 +39,19 @@
 						</a>
 					</h3>
 					<h3>
-						<a class="temp" href="module_coaching_request.php">
+						<a class="temp" href="module_coaching.php">
 							<i class="fa fa-paw" aria-hidden="true"></i>
 							Coaching Request
 						</a>
 					</h3>
 					<h3>
-						<a class="temp" href="module_training_attendance.php">
+						<a class="temp" href="module_training.php">
 							<i class="fa fa-paw" aria-hidden="true"></i>
 							Training Attendance
 						</a>
 					</h3>
 					<h3>
-						<a class="temp" href="module_infrastructure_request.php">
+						<a class="temp" href="module_infrastructure.php">
 							<i class="fa fa-paw" aria-hidden="true"></i>
 							Infrastructure Request
 						</a>

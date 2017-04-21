@@ -17,8 +17,7 @@
 		
 		<div class="">
 		
-			<div class="row">
-			</div>
+			<?php include 'module/portlet/portlet_index_infrastructure.html'; ?>
 			
 		</div>
 		
@@ -26,4 +25,4 @@
 	
 </div>
 
-<!-- <script type="text/javascript" src="../assets/js/pages/infographic_v1.js"></script> -->
+<script type="text/javascript" src="../assets/js/pages/module_infrastructure.js"></script>

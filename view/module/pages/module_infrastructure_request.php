@@ -20,6 +20,7 @@
 		<div class="">
 		
 			<div class="row">
+				<?php include 'module/portlet/module_infrastructure_request.html'; ?>
 			</div>
 			
 		</div>

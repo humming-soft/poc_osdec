@@ -17,7 +17,7 @@
 		
 		<div class="">
 		
-			<?php include 'module/portlet/portlet_index_1.html'; ?>
+			<?php include 'module/portlet/portlet_index_user.html'; ?>
 			
 		</div>
 		
