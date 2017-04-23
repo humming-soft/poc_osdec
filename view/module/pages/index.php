@@ -62,6 +62,18 @@
 							Cloud Suite Software Integration
 						</a>
 					</h3>
+					<h3>
+						<a class="temp" href="module_client.php">
+							<i class="fa fa-paw" aria-hidden="true"></i>
+							Client
+						</a>
+					</h3>
+					<h3>
+						<a class="temp" href="module_assessment.php">
+							<i class="fa fa-paw" aria-hidden="true"></i>
+							Assessment
+						</a>
+					</h3>
 				</div>
 				
 				
