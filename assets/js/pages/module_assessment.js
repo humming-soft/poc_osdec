@@ -1,7 +1,7 @@
 $(document).ready(function(){
 	
 	$('button.btn_add').click(function(){
-		window.location.href = "module_user_registration.php";
+		window.location.href = "module_assessment_module_candidate_registration.php";
 	})
 	
 	

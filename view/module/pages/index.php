@@ -74,6 +74,44 @@
 							Assessment
 						</a>
 					</h3>
+					<br>
+					<br>
+					<h4>
+						<a class="temp" href="module_coaching_request_management_module.php">
+							<i class="fa fa-paw" aria-hidden="true"></i>
+							coaching_request_management_module
+						</a>
+					</h4>
+					<h4>
+						<a class="temp" href="module_change_request_in_coach_management_module_(coachee).php">
+							<i class="fa fa-paw" aria-hidden="true"></i>
+							change_request_in_coach_management_module_(coachee)
+						</a>
+					</h4>
+					<h4>
+						<a class="temp" href="module_change_request_in_coach_management_module_(coach).php">
+							<i class="fa fa-paw" aria-hidden="true"></i>
+							change_request_in_coach_management_module_(coach)
+						</a>
+					</h4>
+					<h4>
+						<a class="temp" href="module_attendance_module_(coach).php">
+							<i class="fa fa-paw" aria-hidden="true"></i>
+							attendance_module_(coach)
+						</a>
+					</h4>
+					<h4>
+						<a class="temp" href="module_facility_management_module.php">
+							<i class="fa fa-paw" aria-hidden="true"></i>
+							facility_management_module
+						</a>
+					</h4>
+					<h4>
+						<a class="temp" href="module_kpi_module.php">
+							<i class="fa fa-paw" aria-hidden="true"></i>
+							kpi_module
+						</a>
+					</h4>
 				</div>
 				
 				
